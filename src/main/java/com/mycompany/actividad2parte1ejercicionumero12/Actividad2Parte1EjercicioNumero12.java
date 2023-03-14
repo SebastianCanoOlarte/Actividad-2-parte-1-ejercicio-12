@@ -12,7 +12,7 @@ public class Actividad2Parte1EjercicioNumero12 {
         double dis,ecu,ecu1,ecu2;
         Scanner input = new Scanner(System.in);
         System.out.println("digite los valores para la ecuacion de la forma ax^2+bx+c");
-        System.out.println("recuerda que para que la ecuancion tenga sentido el valor de a debe ser diferente de 0");
+        System.out.println("recuerda que para que la ecuacion tenga sentido el valor de a debe ser diferente de 0");
         System.out.println("valor de a");
         a = input.nextInt();
         System.out.println("valor de b");
